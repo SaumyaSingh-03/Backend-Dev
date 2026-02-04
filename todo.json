@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2026-01-28T09:29:01.404Z",
+    "name": "Saumya",
+    "email": "saumya03@gmail.com",
+    "password": "123d",
+    "todo": [
+      {
+        "id": "2026-01-29T09:04:02.746Z",
+        "createtime": "2026-01-29T09:04:02.746Z",
+        "task": "todo",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": "2026-01-29T08:35:34.728Z",
+    "name": "Sau",
+    "email": "saumya03@gmail.com",
+    "password": "123d",
+    "todo": []
+  }
+]
